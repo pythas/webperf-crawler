@@ -1,1 +1,9 @@
+.git
+.github
+.gitignore
+.vscode
+.devcontainer
+.dockerignore
+Dockerfile
+*.md
 reports
