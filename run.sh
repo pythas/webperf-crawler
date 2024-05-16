@@ -1,3 +1,4 @@
 #!/bin/sh
 
-/app/main $SITE
+cd /app
+./main $SITE
